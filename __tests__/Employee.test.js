@@ -1,6 +1,4 @@
 
-
-
 const Employee = require("../lib/Employee");
 
 test("Can instantiate employee instance", () => {
